@@ -1,0 +1,80 @@
+{
+    "1950": {
+      "Rice": 1200,
+      "Wheat": 950,
+      "Maize": 800,
+      "Barley": 600,
+      "Millets": 400
+    },
+    "1951": {
+      "Rice": 1300,
+      "Wheat": 1000,
+      "Maize": 900,
+      "Barley": 650,
+      "Millets": 420
+    },
+    "1952": {
+      "Rice": 1250,
+      "Wheat": 970,
+      "Maize": 860,
+      "Barley": 700,
+      "Millets": 430
+    },
+    "1953": {
+      "Rice": 1380,
+      "Wheat": 1050,
+      "Maize": 950,
+      "Barley": 720,
+      "Millets": 450
+    },
+    "1954": {
+      "Rice": 1400,
+      "Wheat": 1100,
+      "Maize": 1000,
+      "Barley": 740,
+      "Millets": 460
+    },
+    "1955": {
+      "Rice": 1450,
+      "Wheat": 1130,
+      "Maize": 1050,
+      "Barley": 750,
+      "Millets": 470
+    },
+    "1956": {
+      "Rice": 1500,
+      "Wheat": 1150,
+      "Maize": 1070,
+      "Barley": 760,
+      "Millets": 480
+    },
+    "1957": {
+      "Rice": 1550,
+      "Wheat": 1180,
+      "Maize": 1100,
+      "Barley": 770,
+      "Millets": 490
+    },
+    "1958": {
+      "Rice": 1600,
+      "Wheat": 1200,
+      "Maize": 1120,
+      "Barley": 780,
+      "Millets": 500
+    },
+    "1959": {
+      "Rice": 1650,
+      "Wheat": 1250,
+      "Maize": 1150,
+      "Barley": 790,
+      "Millets": 510
+    },
+    "1960": {
+      "Rice": 1700,
+      "Wheat": 1300,
+      "Maize": 1180,
+      "Barley": 800,
+      "Millets": 520
+    }
+  }
+  
